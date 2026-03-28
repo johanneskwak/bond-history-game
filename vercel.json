@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/bond_history.html", "destination": "/index.html" }
+  ]
+}
